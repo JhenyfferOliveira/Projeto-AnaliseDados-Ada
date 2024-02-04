@@ -17,5 +17,5 @@ O projeto foi realizado em janeiro de 2024 e contou com a colaboração de 4 int
 
 1.  Clone esse repositório na pasta desejada:
 ~~~
-git clone https://github.com/UdenalR/restaurantes_ifood_2020_2021
+git clone https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada
 ~~~
