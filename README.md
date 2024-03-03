@@ -16,6 +16,5 @@ O projeto foi realizado em janeiro de 2024 e contou com a colaboração de 4 int
 # Como rodar
 
 1.  Clone esse repositório na pasta desejada:
-~~~
-git clone https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada
-~~~
+
+> Clique [aqui](https://github.com/JhenyfferOliveira/Projeto-AnaliseDados-Ada/blob/main/projeto_final_modulo_4.ipynb) e visualize a limpeza e as visualizações realizadas.
