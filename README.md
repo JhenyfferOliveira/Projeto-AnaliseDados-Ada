@@ -9,9 +9,9 @@ O projeto foi realizado em janeiro de 2024 e contou com a colaboração de 4 int
 
 # Ferramentas utilizadas
 
-| Python | Git | 
-| ------ | --- | 
-| [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)](https://www.python.org) | [![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg)](https://git-scm.com) 
+| Python | Seaborn | Matplotlib | Git | 
+| ------ | ------- | ---------- | --- | 
+| [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)](https://www.python.org) | [![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)](https://seaborn.pydata.org/) | [![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)](https://matplotlib.org/) | [![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg)](https://git-scm.com) |
 
 # Como rodar
 
