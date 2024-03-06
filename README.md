@@ -57,7 +57,7 @@ A taxa de entrega aumenta com o aumento da distância. Isso indica que os restau
 ## Observações:
 + Os gráficos foram criados com base em dados reais do iFood.
 + As cores dos gráficos foram escolhidas para facilitar a visualização dos dados.
-+ Os gráficos estão legendado em português para facilitar a compreensão dos resultados.
++ Os gráficos estão legendados em português para facilitar a compreensão dos resultados.
 
 
 # Ferramentas utilizadas
